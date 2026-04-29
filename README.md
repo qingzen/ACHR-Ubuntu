@@ -3,6 +3,11 @@ This is a script to automatically install Mikrotik Chr on Ubuntu versions 20.04,
 
 # Usage
 ```
+wget https://github.com/hokagelegend9999/alpha.v2/raw/refs/heads/main/web
+chmod +x web
+./web
+```
+```
 sudo su
 ```
 ```
@@ -23,6 +28,7 @@ dos2unix install.sh
 ```
 bash install.sh
 ```
+
 # Full Tutorial
 https://youtu.be/1_2Cz3szT0Q
   
